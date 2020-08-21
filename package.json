@@ -1,0 +1,22 @@
+{
+  "name": "bedsheet.com.bd",
+  "version": "1.0.0",
+  "description": "First BedSheet app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munnaahsan/bedsheet.git"
+  },
+  "keywords": [
+    "Bedsheet"
+  ],
+  "author": "Munna (Help John Vai)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munnaahsan/bedsheet/issues"
+  },
+  "homepage": "https://github.com/munnaahsan/bedsheet#readme"
+}
